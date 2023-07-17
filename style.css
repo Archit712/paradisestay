@@ -99,7 +99,7 @@ ul li a:hover::after{
 }
 @media(max-width:767px){
     .header{
-        min-height: 180vh;
+        min-height: 130vh;
     }
     .txt{
         top: 50%;
